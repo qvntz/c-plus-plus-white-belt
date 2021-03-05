@@ -10,10 +10,10 @@
 	- 0 <= N <= 1000
 	- -1000000 <= A[i] <= 1000000
 
-	  stdin | stdout |
-    | :---: | :-----: |
-    | 2 -4 3 | 3 -4 |
-    | 3 1 -3 2 | 1 2 -3 |
+	| stdin | stdout |
+	| :---: | :-----: |
+	| 2 -4 3 | 3 -4 |
+	| 3 1 -3 2 | 1 2 -3 |
 
 - [Сортировка без учета регистра](https://github.com/qvntz/c-plus-plus-white-belt/blob/main/week3/ex2.cpp)
 
